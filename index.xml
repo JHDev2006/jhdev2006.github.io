@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>JoeMama</title>
+    <link>https://example.org/</link>
+    <description>Recent content on JoeMama</description>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 May 2025 13:34:44 +0100</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me &amp; My Projects</title>
+      <link>https://example.org/posts/about/</link>
+      <pubDate>Wed, 14 May 2025 13:34:44 +0100</pubDate>
+      <guid>https://example.org/posts/about/</guid>
+      <description>&lt;h1 id=&#34;hi&#34;&gt;Hi.&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;m Joe, I like making games, and I hate making websites.&lt;/p&gt;
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;I was born in 2006 in the UK, I like to program games and various software for people to use and tinker with, I primarily use Godot for game development however, I&amp;rsquo;ve recently started learning SDL3 with C++, using it to create my own basic game engine, for personal projects.&lt;/p&gt;
+&lt;p&gt;I started learning how to program since I was young (about 8 or 9 years old), and haven&amp;rsquo;t stopped programming since. I started learning game development using Godot about 4 years ago, and now worked on various projects, with large teams, working on some fan-games.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
