@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on JoeMama</title>
-    <link>https://jhdev2006.github.io/posts/</link>
+    <link>https://jhdev2006.github.io/personal-site/posts/</link>
     <description>Recent content in Posts on JoeMama</description>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 May 2025 13:34:44 +0100</lastBuildDate>
-    <atom:link href="https://jhdev2006.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jhdev2006.github.io/personal-site/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me &amp; My Projects</title>
-      <link>https://jhdev2006.github.io/posts/about/</link>
+      <link>https://jhdev2006.github.io/personal-site/posts/about/</link>
       <pubDate>Wed, 14 May 2025 13:34:44 +0100</pubDate>
-      <guid>https://jhdev2006.github.io/posts/about/</guid>
+      <guid>https://jhdev2006.github.io/personal-site/posts/about/</guid>
       <description>&lt;h1 id=&#34;hi&#34;&gt;Hi.&lt;/h1&gt;
 &lt;p&gt;I&amp;rsquo;m Joe, I like making games, and I hate making websites.&lt;/p&gt;
 &lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
