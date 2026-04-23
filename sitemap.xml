@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jhdev2006.github.io/posts/about/</loc>
+    <loc>http://jhdev2006.github.io/</loc>
+    <lastmod>2026-04-23T21:33:52+01:00</lastmod>
+  </url><url>
+    <loc>http://jhdev2006.github.io/posts/nintendodmca/</loc>
+    <lastmod>2026-04-23T21:33:52+01:00</lastmod>
+  </url><url>
+    <loc>http://jhdev2006.github.io/posts/</loc>
+    <lastmod>2026-04-23T21:33:52+01:00</lastmod>
+  </url><url>
+    <loc>http://jhdev2006.github.io/posts/about/</loc>
     <lastmod>2025-05-14T13:34:44+01:00</lastmod>
   </url><url>
-    <loc>https://jhdev2006.github.io/</loc>
-    <lastmod>2025-05-14T13:34:44+01:00</lastmod>
+    <loc>http://jhdev2006.github.io/categories/</loc>
   </url><url>
-    <loc>https://jhdev2006.github.io/posts/</loc>
-    <lastmod>2025-05-14T13:34:44+01:00</lastmod>
-  </url><url>
-    <loc>https://jhdev2006.github.io/categories/</loc>
-  </url><url>
-    <loc>https://jhdev2006.github.io/tags/</loc>
+    <loc>http://jhdev2006.github.io/tags/</loc>
   </url>
 </urlset>
